@@ -2,10 +2,6 @@
 
 namespace DGtal\SocialiteProviders\Meli;
 
-// use Laravel\Socialite\Two\ProviderInterface;
-// use SocialiteProviders\Manager\OAuth2\AbstractProvider;
-// use SocialiteProviders\Manager\OAuth2\User;
-
 use SocialiteProviders\Manager\OAuth2\User;
 use Laravel\Socialite\Two\ProviderInterface;
 use SocialiteProviders\Manager\OAuth2\AbstractProvider;
